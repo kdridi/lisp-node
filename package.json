@@ -1,0 +1,26 @@
+{
+  "name": "lisp-node",
+  "version": "0.1.1",
+  "description": "A super tiny LISP interpreter",
+  "main": "lisp-node",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdridi/lisp-node.git"
+  },
+  "keywords": [
+    "lisp",
+    "interpreter"
+  ],
+  "author": "Karim DRIDI <karim.dridi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdridi/lisp-node/issues"
+  },
+  "homepage": "https://github.com/kdridi/lisp-node#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
